@@ -309,9 +309,9 @@
 
 ## 📫 Let's Connect!
 
-- 💼 *LinkedIn*: [Pesandu Jayasinghe](https://linkedin.com/in/pesandu-jayasinghe-a1b4b3354)
-- 📧 *Email*: [pesanduse@gmail.com](mailto:pesanduse@gmail.com)
-- 🌐 *Portfolio*: [pesandujayasinghe.dev](https://pesandujayasinghe.dev)
+- 💼 *LinkedIn*: [Saranga Kalhari]()
+- 📧 *Email*: [sarangakalhari0305@gmail.com](mailto:sarangakalhari0305@gmail.com)
+- 🌐 *Portfolio*: []()
 
 <p align="center">
   <em class="fade-in">Feel free to explore my repositories and let's build something amazing together! 🚀</em>
