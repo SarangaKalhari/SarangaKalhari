@@ -299,9 +299,9 @@
 ## 🏆 My GitHub Stats
 
 <p align="center">
-  <img class="fade-in" src="https://github-readme-stats.vercel.app/api/top-langs?username=pesandujayasinghe&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" style="margin: 10px;"/>
-  <img class="fade-in" src="https://github-readme-stats.vercel.app/api?username=pesandujayasinghe&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" style="margin: 10px;"/>
-  <img class="fade-in" src="https://github-readme-streak-stats.herokuapp.com/?user=pesandujayasinghe&theme=radical" alt="GitHub Streak" style="margin: 10px;"/>
+  <img class="fade-in" src="https://github-readme-stats.vercel.app/api/top-langs?username=SarangaKalhari&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" style="margin: 10px;"/>
+  <img class="fade-in" src="https://github-readme-stats.vercel.app/api?username=SarangaKalhari&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" style="margin: 10px;"/>
+  <img class="fade-in" src="https://github-readme-streak-stats.herokuapp.com/?user=SarangaKalhari&theme=radical" alt="GitHub Streak" style="margin: 10px;"/>
 </p>
 
 ---
